@@ -3,18 +3,18 @@
 ### 스마트폰제어 얼굴인식 도어락
 
 ### 개발 환경
-H/W : Raspberry Pi 4B, Raspberry 
-WebCam: logitech C270 webcam
-Galaxy tab s6 lite , iphone xs
-O/S : Raspbian
-IDE : visual studio code, android studio
+-H/W : Raspberry Pi 4B, Raspberry 
+-WebCam: logitech C270 webcam
+-Galaxy tab s6 lite , iphone xs
+-O/S : Raspbian
+-IDE : visual studio code, android studio
 
 ### 주요기능
-react를 이용하여 web app 의 형태 구현 및 firebase realtime database, storage 연동, proxy 설정을 통한 node.js 웹서버와 통신
-node.js 웹서버에서 view를 이전 react로 적용 및 firebase의 data 변경에 따른 요청 및 응답 , push 알림 구현
-mulit thread tcp/ip 통신을 통해 웹서버와 rasberrypi간 데이터 통신 구축 (학습된 얼굴에 대한 데이터가 전송)
-dnn 얼굴탐지 모델사용 얼굴탐지 및 LBP 알고리즘에 의한 학습구현
-LBP 알고리즘에 의한 학습시 이미지의 조명요소 영향을 줄이기 위해 homomorphic filter 구현 및 적용
+-react를 이용하여 web app 의 형태 구현 및 firebase realtime database, storage 연동, proxy 설정을 통한 node.js 웹서버와 통신
+-node.js 웹서버에서 view를 이전 react로 적용 및 firebase의 data 변경에 따른 요청 및 응답 , push 알림 구현
+-mulit thread tcp/ip 통신을 통해 웹서버와 rasberrypi간 데이터 통신 구축 (학습된 얼굴에 대한 데이터가 전송)
+-dnn 얼굴탐지 모델사용 얼굴탐지 및 LBP 알고리즘에 의한 학습구현
+-LBP 알고리즘에 의한 학습시 이미지의 조명요소 영향을 줄이기 위해 homomorphic filter 구현 및 적용
 
 
 ![image](https://user-images.githubusercontent.com/51200912/176945484-2becd69c-e653-4b12-b9f2-2a38c79ac613.png)
