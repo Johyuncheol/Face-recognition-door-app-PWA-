@@ -15,6 +15,7 @@
 <li>mulit thread tcp/ip 통신을 통해 웹서버와 rasberrypi간 데이터 통신 구축 (학습된 얼굴에 대한 데이터가 전송)</li>
 <li>dnn 얼굴탐지 모델사용 얼굴탐지 및 LBP 알고리즘에 의한 학습구현</li>
 <li>LBP 알고리즘에 의한 학습시 이미지의 조명요소 영향을 줄이기 위해 homomorphic filter 구현 및 적용</li>
+<li>시도자 실시간 확인기능</li>
 
 
 ![image](https://user-images.githubusercontent.com/51200912/176946167-504c4264-070a-43b2-b5ff-57a47f3a6f37.png)
