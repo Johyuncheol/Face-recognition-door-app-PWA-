@@ -24,6 +24,6 @@
 
 
 ### 구조
-![image](https://user-images.githubusercontent.com/51200912/176945904-87f369a0-3e29-47d7-a995-5fbe990a4ef8.png)
+![image](https://user-images.githubusercontent.com/51200912/176945961-b02434a6-f446-45d4-8017-645d52b320b3.png)
 
 
