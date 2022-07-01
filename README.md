@@ -3,7 +3,7 @@
 ### 스마트폰제어 얼굴인식 도어락
 
 ### 개발 환경
--H/W : Raspberry Pi 4B, Raspberry 
+<li>H/W : Raspberry Pi 4B, Raspberry</li> 
 -WebCam: logitech C270 webcam
 -Galaxy tab s6 lite , iphone xs
 -O/S : Raspbian
