@@ -23,4 +23,7 @@
 ![image](https://user-images.githubusercontent.com/51200912/176945528-b0461ce1-2427-4ca0-a330-2daf8ec6573a.png)
 
 
+### 구조
+![image](https://user-images.githubusercontent.com/51200912/176945904-87f369a0-3e29-47d7-a995-5fbe990a4ef8.png)
+
 
