@@ -17,10 +17,11 @@
 <li>LBP 알고리즘에 의한 학습시 이미지의 조명요소 영향을 줄이기 위해 homomorphic filter 구현 및 적용</li>
 
 
-![image](https://user-images.githubusercontent.com/51200912/176945484-2becd69c-e653-4b12-b9f2-2a38c79ac613.png)
-![image](https://user-images.githubusercontent.com/51200912/176945504-046ec70b-2d28-41a2-aa1c-bbddada50a46.png)
-![image](https://user-images.githubusercontent.com/51200912/176945517-1a3b146b-db1a-46c8-93c2-f2ff76553661.png)
-![image](https://user-images.githubusercontent.com/51200912/176945528-b0461ce1-2427-4ca0-a330-2daf8ec6573a.png)
+![image](https://user-images.githubusercontent.com/51200912/176946167-504c4264-070a-43b2-b5ff-57a47f3a6f37.png)
+![image](https://user-images.githubusercontent.com/51200912/176946188-0edb6324-aebc-4b85-9487-ec15f31d65e0.png)
+![image](https://user-images.githubusercontent.com/51200912/176946208-5c5a6f1c-d1e3-4758-8bce-06044147a0ce.png)
+![image](https://user-images.githubusercontent.com/51200912/176946229-59c89e6d-fd7e-48f4-83a5-8741aea86127.png)
+
 
 
 ### 구조
