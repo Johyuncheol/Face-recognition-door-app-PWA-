@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "130079254258",
+    "firebase_url": "https://lock-2674d-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "lock-2674d",
+    "storage_bucket": "lock-2674d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:130079254258:android:29f7fe4d77cf05cc1c926b",
+        "android_client_info": {
+          "package_name": "com.jolock.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "130079254258-m3ivok3q5jdjru7tvqhnnt2tktlar0iq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCppVzU8USQOzp4Z5eibgcZ75fp1HFGMy0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "130079254258-m3ivok3q5jdjru7tvqhnnt2tktlar0iq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
